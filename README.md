@@ -12,6 +12,7 @@ To create package: <code>npm init</code>
 <h2>Process to run the app on your local machine using Nodemon and Live Server</h2>
 
 - Click the link-> [Visit!](https://its-hrs.github.io/WebChat-App/)
+- <b>Note:</b> Ignore the Deceptive site warning and proceed ahead 
 
 - On opening Enter your name in the prompt box
 
